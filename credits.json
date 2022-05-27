@@ -1,0 +1,152 @@
+{
+    "Desktop credits": [
+        {
+            "text": "Desktop Development",
+            "name": "Elias Deuss",
+            "url": "https://deuss.dev"
+        },
+        {
+            "text": "API Development",
+            "name": "Sjoerd Bolten",
+            "url": "https://sjoerd.dev"
+        }
+    ],
+    "Translation credits": [
+        {
+            "text": "Translation Manager",
+            "name": "Quinten Althues",
+            "url": "https://twitter.com/QkeleQ10"
+        },
+        {
+            "text": "Čeština",
+            "languageCode": "cs",
+            "name": "Mates",
+            "url": "https://open.spotify.com/user/edbkis7u2vqu6dbujs8qxdn8z"
+        },
+        {
+            "text": "Čeština",
+            "languageCode": "cs",
+            "name": "Neimit",
+            "url": "https://www.youtube.com/c/NeimitGaming"
+        },
+        {
+            "text": "Deutsch",
+            "languageCode": "de",
+            "name": "Till",
+            "url": "https://www.youtube.com/channel/UCEjmi0aW-UaX4DHnFNCuafQ"
+        },
+        {
+            "text": "Deutsch",
+            "languageCode": "de",
+            "name": "Anton Seelus",
+            "url": "https://www.instagram.com/antonseelus/"
+        },
+        {
+            "text": "Deutsch",
+            "languageCode": "de",
+            "name": "Tom Flicker",
+            "url": "http://twitter.com/tom_flicker"
+        },
+        {
+            "text": "Deutsch",
+            "languageCode": "de",
+            "name": "Lauritz",
+            "url": "https://twitter.com/lxxrxtz"
+        },
+        {
+            "text": "Español",
+            "languageCode": "es",
+            "name": "TheComputer8423",
+            "url": "https://twitter.com/TheComputer8423/"
+        },
+        {
+            "text": "Français",
+            "languageCode": "fr",
+            "name": "Jules_10",
+            "url": "https://www.instagram.com/zju_10nbaum/"
+        },
+        {
+            "text": "Français",
+            "languageCode": "fr",
+            "name": "Julienbdx",
+            "url": "https://twitter.com/julienbdx"
+        },
+        {
+            "text": "Français",
+            "languageCode": "fr",
+            "name": "TomsWills",
+            "url": "https://twitter.com/TomsWills"
+        },
+        {
+            "text": "Italiano",
+            "languageCode": "it",
+            "name": "Alessandra",
+            "url": "https://www.instagram.com/oops.ola/"
+        },
+        {
+            "text": "Italiano",
+            "languageCode": "it",
+            "name": "Jago",
+            "url": "https://discord.gg/aV9EtB3"
+        },
+        {
+            "text": "Nederlands",
+            "languageCode": "nl",
+            "name": "Sjoerd Bolten",
+            "url": "https://www.instagram.com/sjoerdbolten/"
+        },
+        {
+            "text": "Nederlands",
+            "languageCode": "nl",
+            "name": "Quinten Althues",
+            "url": "https://twitter.com/QkeleQ10"
+        },
+        {
+            "text": "Polski",
+            "languageCode": "pl",
+            "name": "Antoni Marzec",
+            "url": "https://marzeq.me"
+        },
+        {
+            "text": "Polski",
+            "languageCode": "pl",
+            "name": "Kacper K",
+            "url": "https://open.spotify.com/user/21m4ty553rskrm7s7m3iyx6si/"
+        },
+        {
+            "text": "Slovenščina",
+            "languageCode": "sl",
+            "name": "Ozzby",
+            "url": "https://www.podgrajski.si/ozzby"
+        },
+        {
+            "text": "Русский",
+            "languageCode": "ru",
+            "name": "Anna",
+            "url": "https://instagram.com/aglzrn?igshid=7pvzm8mi73qh"
+        },
+        {
+            "text": "한국어",
+            "languageCode": "ko",
+            "name": "Richard Teh",
+            "url": "https://www.instagram.com/richard_teh/"
+        }
+    ],
+    "Other credits": [
+        {
+            "text": "Huge thanks to all Beta testers!",
+            "name": null,
+            "url": "https://media.discordapp.net/attachments/549691540734476309/816108681157935104/unknown.png"
+        },
+        {
+            "text": "Huge thanks to all Discord members!",
+            "name": null,
+            "url": "https://media.discordapp.net/attachments/549691540734476309/816108681157935104/unknown.png"
+        },
+        {
+            "text": "Huge thanks to all Stats.fm Plus supporters!",
+            "name": null,
+            "url": "https://media.discordapp.net/attachments/549691540734476309/816108681157935104/unknown.png"
+        }
+    ]
+}
